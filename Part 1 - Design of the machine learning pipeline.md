@@ -1,5 +1,5 @@
 
-![[Diagrama sem nome-Naive MLops.drawio 1.svg]]
+![[assets/part1.svg]]
 *Figure 1.1*
 
 The pipeline for the labeling problem is presented on figure 1.1. Since the given problem 
