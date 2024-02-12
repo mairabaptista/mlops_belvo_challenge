@@ -1,5 +1,5 @@
 
-![[[Figure 1.1g](https://github.com/mairabaptista/mlops_belvo_challenge/assets/15002658/3da562ec-4aaf-4216-b809-2ef14e98e598)]]
+![Figure 1.1](https://github.com/mairabaptista/mlops_belvo_challenge/assets/15002658/3da562ec-4aaf-4216-b809-2ef14e98e598)
 *Figure 1.1*
 
 The pipeline for the labeling problem is presented on figure 1.1. Since the given problem 
